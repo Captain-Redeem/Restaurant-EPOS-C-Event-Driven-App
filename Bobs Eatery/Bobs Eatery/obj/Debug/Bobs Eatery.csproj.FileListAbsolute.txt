@@ -1,0 +1,33 @@
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.csprojAssemblyReference.cache
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs_Eatery.frmLogin.resources
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs_Eatery.Properties.Resources.resources
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.csproj.GenerateResource.cache
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.csproj.CoreCompileInputs.cache
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\bin\Debug\Bobs Eatery.exe.config
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\bin\Debug\Bobs Eatery.exe
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\bin\Debug\Bobs Eatery.pdb
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.exe
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.pdb
+C:\Users\usman aka ubi\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs_Eatery.EPOS.resources
+C:\Users\mhdus\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.csprojAssemblyReference.cache
+C:\Users\mhdus\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs_Eatery.EPOS.resources
+C:\Users\mhdus\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs_Eatery.frmLogin.resources
+C:\Users\mhdus\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs_Eatery.Properties.Resources.resources
+C:\Users\mhdus\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.csproj.GenerateResource.cache
+C:\Users\mhdus\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.csproj.CoreCompileInputs.cache
+C:\Users\mhdus\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.exe
+C:\Users\mhdus\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.pdb
+C:\Users\mhdus\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\bin\Debug\Bobs Eatery.exe.config
+C:\Users\mhdus\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\bin\Debug\Bobs Eatery.exe
+C:\Users\mhdus\OneDrive - Wakefield College\programming\Bobs Eatery\Bobs Eatery\bin\Debug\Bobs Eatery.pdb
+C:\Users\mhdus\OneDrive - Wakefield College\EDP\Bobs Eatery\Bobs Eatery\bin\Debug\Bobs Eatery.exe.config
+C:\Users\mhdus\OneDrive - Wakefield College\EDP\Bobs Eatery\Bobs Eatery\bin\Debug\Bobs Eatery.exe
+C:\Users\mhdus\OneDrive - Wakefield College\EDP\Bobs Eatery\Bobs Eatery\bin\Debug\Bobs Eatery.pdb
+C:\Users\mhdus\OneDrive - Wakefield College\EDP\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.csprojAssemblyReference.cache
+C:\Users\mhdus\OneDrive - Wakefield College\EDP\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs_Eatery.EPOS.resources
+C:\Users\mhdus\OneDrive - Wakefield College\EDP\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs_Eatery.frmLogin.resources
+C:\Users\mhdus\OneDrive - Wakefield College\EDP\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs_Eatery.Properties.Resources.resources
+C:\Users\mhdus\OneDrive - Wakefield College\EDP\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.csproj.GenerateResource.cache
+C:\Users\mhdus\OneDrive - Wakefield College\EDP\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.csproj.CoreCompileInputs.cache
+C:\Users\mhdus\OneDrive - Wakefield College\EDP\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.exe
+C:\Users\mhdus\OneDrive - Wakefield College\EDP\Bobs Eatery\Bobs Eatery\obj\Debug\Bobs Eatery.pdb
