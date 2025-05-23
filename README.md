@@ -1,1 +1,1 @@
-# Sandwich-shop-Event-Driven-app
+# A restaurant EPOS system for Bobs Eatery
